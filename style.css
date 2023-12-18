@@ -1,0 +1,38 @@
+.text-center{
+    text-align: center;
+}
+.cal{
+    
+    background-color: rgb(152, 249, 217);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(254, 32, 20);
+    color: white;
+}
+
+.row{
+    margin:8px 0px ;
+}
+
+.row input{
+    width: 292px;
+    margin: 0px;
+    font-size: 19px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
