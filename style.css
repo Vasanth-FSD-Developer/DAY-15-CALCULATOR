@@ -1,4 +1,10 @@
+/* Background styles */
+body {
+    background-image: url('https://png.pngtree.com/background/20230409/original/pngtree-sky-color-dreamy-sky-sunny-picture-image_2372750.jpg');
+    background-position: center;
+}
 .text-center{
+    color: white;
     text-align: center;
 }
 .cal{
