@@ -9,7 +9,6 @@ body {
 }
 .cal{
     
-    background-color: rgb(152, 249, 217);
     margin: auto;
     display: flex;
     flex-direction: column;
